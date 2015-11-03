@@ -1,4 +1,21 @@
 {
+  "name": "react-weather",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpliang/React-Weather.git"
+  },
+  "author": "Michael Liang <michaelpliang@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mpliang/React-Weather/issues"
+  },
+  "homepage": "https://github.com/mpliang/React-Weather#readme",
+  "description": "",
   "jspm": {
     "dependencies": {
       "flux": "npm:flux@^2.1.1",
@@ -10,5 +27,8 @@
       "babel-runtime": "npm:babel-runtime@^5.8.24",
       "core-js": "npm:core-js@^1.1.4"
     }
+  },
+  "dependencies": {
+    "jspm": "^0.16.14"
   }
 }
