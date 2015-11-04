@@ -161,7 +161,7 @@ img.thumb {
 .info a {
   color: white;
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
-  font-weight: 300;
+  font-weight: 299;
 }
 
 @media (max-width: 430px) {
